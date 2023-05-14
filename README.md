@@ -76,3 +76,4 @@ If you would like to import additional dependencies, such as [Secret Toolkit](ht
 secret-toolkit = { git = "https://github.com/scrtlabs/secret-toolkit", tag = "v0.8.0"}
 cw-storage-plus = {version = "1.0.1", default-features = false}
 ```
+# silkSave
